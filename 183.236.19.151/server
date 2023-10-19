@@ -1,1 +1,1 @@
-systeminfo
+echo '111'>>client
