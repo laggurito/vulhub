@@ -1,0 +1,339 @@
+external ip: 58.248.162.32
+internal ip: 10.39.28.86
+Computer Name: LOLBOT
+Windows version: 10.0.22621
+process list:
+{
+PID:00000	PName: [System Process]
+PID:00004	PName: System
+PID:00208	PName: Registry
+PID:00748	PName: smss.exe
+PID:01084	PName: csrss.exe
+PID:01244	PName: wininit.exe
+PID:01252	PName: csrss.exe
+PID:01312	PName: winlogon.exe
+PID:01384	PName: services.exe
+PID:01412	PName: lsass.exe
+PID:01532	PName: svchost.exe
+PID:01568	PName: fontdrvhost.exe
+PID:01576	PName: fontdrvhost.exe
+PID:01640	PName: WUDFHost.exe
+PID:01716	PName: svchost.exe
+PID:01760	PName: svchost.exe
+PID:01860	PName: dwm.exe
+PID:01940	PName: svchost.exe
+PID:01960	PName: svchost.exe
+PID:01976	PName: svchost.exe
+PID:01984	PName: svchost.exe
+PID:01424	PName: svchost.exe
+PID:02076	PName: svchost.exe
+PID:02096	PName: svchost.exe
+PID:02104	PName: svchost.exe
+PID:02120	PName: svchost.exe
+PID:02312	PName: svchost.exe
+PID:02332	PName: svchost.exe
+PID:02356	PName: svchost.exe
+PID:02452	PName: svchost.exe
+PID:02460	PName: svchost.exe
+PID:02656	PName: svchost.exe
+PID:02680	PName: svchost.exe
+PID:02796	PName: svchost.exe
+PID:02900	PName: svchost.exe
+PID:00876	PName: svchost.exe
+PID:02200	PName: svchost.exe
+PID:03108	PName: NVDisplay.Container.exe
+PID:03288	PName: svchost.exe
+PID:03312	PName: atiesrxx.exe
+PID:03320	PName: amdfendrsr.exe
+PID:03332	PName: AsusCertService.exe
+PID:03508	PName: svchost.exe
+PID:03668	PName: svchost.exe
+PID:03732	PName: svchost.exe
+PID:03740	PName: svchost.exe
+PID:03764	PName: atieclxx.exe
+PID:03852	PName: svchost.exe
+PID:03872	PName: NVDisplay.Container.exe
+PID:03896	PName: svchost.exe
+PID:03944	PName: svchost.exe
+PID:03276	PName: svchost.exe
+PID:01840	PName: svchost.exe
+PID:04168	PName: svchost.exe
+PID:04260	PName: svchost.exe
+PID:04324	PName: svchost.exe
+PID:04436	PName: WmiPrvSE.exe
+PID:04548	PName: spoolsv.exe
+PID:04596	PName: svchost.exe
+PID:04644	PName: svchost.exe
+PID:04876	PName: wlanext.exe
+PID:04888	PName: conhost.exe
+PID:05092	PName: ArmouryCrateControlInterface.exe
+PID:05100	PName: svchost.exe
+PID:03796	PName: svchost.exe
+PID:04700	PName: svchost.exe
+PID:05132	PName: svchost.exe
+PID:05164	PName: AsusMultiAntennaSvc.exe
+PID:05172	PName: gameinputsvc.exe
+PID:05180	PName: svchost.exe
+PID:05188	PName: svchost.exe
+PID:05212	PName: lghub_updater.exe
+PID:05220	PName: GameSDK.exe
+PID:05324	PName: ArmouryCrate.Service.exe
+PID:05384	PName: phpStudyServer.exe
+PID:05396	PName: RefreshRateService.exe
+PID:05404	PName: svchost.exe
+PID:05428	PName: nvcontainer.exe
+PID:05436	PName: vmware-authd.exe
+PID:05448	PName: sqlwriter.exe
+PID:05460	PName: ROGLiveService.exe
+PID:05468	PName: vmnetdhcp.exe
+PID:05484	PName: svchost.exe
+PID:05492	PName: RtkAudUService64.exe
+PID:05520	PName: ToDesk.exe
+PID:05564	PName: vmware-usbarbitrator64.exe
+PID:05572	PName: vmnat.exe
+PID:05580	PName: svchost.exe
+PID:05588	PName: MsMpEng.exe
+PID:05604	PName: svchost.exe
+PID:06100	PName: WmiPrvSE.exe
+PID:06176	PName: gameinputsvc.exe
+PID:06880	PName: svchost.exe
+PID:06952	PName: gamingservicesnet.exe
+PID:06968	PName: gamingservices.exe
+PID:07376	PName: AggregatorHost.exe
+PID:07796	PName: svchost.exe
+PID:08064	PName: rundll32.exe
+PID:05376	PName: svchost.exe
+PID:09104	PName: svchost.exe
+PID:08536	PName: sihost.exe
+PID:08752	PName: svchost.exe
+PID:09140	PName: svchost.exe
+PID:09096	PName: svchost.exe
+PID:09000	PName: svchost.exe
+PID:09332	PName: ArmourySocketServer.exe
+PID:09420	PName: svchost.exe
+PID:09468	PName: AcPowerNotification.exe
+PID:09500	PName: ASUSSmartDisplayControl.exe
+PID:09596	PName: taskhostw.exe
+PID:10028	PName: svchost.exe
+PID:07132	PName: asus_framework.exe
+PID:09404	PName: svchost.exe
+PID:09316	PName: explorer.exe
+PID:09708	PName: svchost.exe
+PID:10348	PName: svchost.exe
+PID:10500	PName: svchost.exe
+PID:10576	PName: svchost.exe
+PID:10724	PName: ArmouryCrate.UserSessionHelper.exe
+PID:10732	PName: conhost.exe
+PID:11136	PName: StartMenuExperienceHost.exe
+PID:11204	PName: Widgets.exe
+PID:03044	PName: RuntimeBroker.exe
+PID:10556	PName: RuntimeBroker.exe
+PID:10036	PName: svchost.exe
+PID:10064	PName: nvcontainer.exe
+PID:11820	PName: dllhost.exe
+PID:12144	PName: svchost.exe
+PID:12164	PName: ShellExperienceHost.exe
+PID:12752	PName: ArmouryCrate.DenoiseAI.exe
+PID:12780	PName: RtkAudUService64.exe
+PID:12932	PName: ctfmon.exe
+PID:13000	PName: audiodg.exe
+PID:13176	PName: SearchIndexer.exe
+PID:10416	PName: NisSrv.exe
+PID:13368	PName: ChsIME.exe
+PID:13504	PName: TextInputHost.exe
+PID:13568	PName: NVIDIA Web Helper.exe
+PID:13692	PName: conhost.exe
+PID:13884	PName: ArmouryHtmlDebugServer.exe
+PID:14128	PName: GoogleCrashHandler.exe
+PID:14248	PName: GoogleCrashHandler64.exe
+PID:15036	PName: chrome.exe
+PID:15052	PName: chrome.exe
+PID:15232	PName: chrome.exe
+PID:15244	PName: chrome.exe
+PID:15312	PName: chrome.exe
+PID:15380	PName: ToDesk.exe
+PID:15752	PName: asus_framework.exe
+PID:15820	PName: asus_framework.exe
+PID:16036	PName: asus_framework.exe
+PID:16560	PName: ArmourySwAgent.exe
+PID:17208	PName: SecurityHealthSystray.exe
+PID:17228	PName: SecurityHealthService.exe
+PID:17352	PName: lghub.exe
+PID:15672	PName: lghub_system_tray.exe
+PID:16940	PName: lghub.exe
+PID:17100	PName: lghub.exe
+PID:09416	PName: lghub_agent.exe
+PID:19912	PName: Spotify.exe
+PID:19940	PName: Spotify.exe
+PID:20092	PName: Spotify.exe
+PID:20292	PName: Spotify.exe
+PID:20312	PName: Spotify.exe
+PID:19492	PName: Spotify.exe
+PID:19844	PName: svchost.exe
+PID:20936	PName: RadeonSoftware.exe
+PID:21044	PName: CPUMetricsServer.exe
+PID:01588	PName: cncmd.exe
+PID:21356	PName: cmd.exe
+PID:00008	PName: conhost.exe
+PID:03348	PName: AMDRSServ.exe
+PID:03372	PName: vmware-tray.exe
+PID:21092	PName: RtkAudUService64.exe
+PID:20848	PName: svchost.exe
+PID:09492	PName: svchost.exe
+PID:02128	PName: unsecapp.exe
+PID:14508	PName: svchost.exe
+PID:01876	PName: svchost.exe
+PID:16508	PName: svchost.exe
+PID:01808	PName: svchost.exe
+PID:13208	PName: svchost.exe
+PID:08824	PName: svchost.exe
+PID:14880	PName: RuntimeBroker.exe
+PID:06788	PName: svchost.exe
+PID:09764	PName: WidgetService.exe
+PID:11268	PName: AMDRSSrcExt.exe
+PID:14292	PName: chrome.exe
+PID:10544	PName: svchost.exe
+PID:04300	PName: WeChat.exe
+PID:09884	PName: mmcrashpad_handler64.exe
+PID:06944	PName: WeChatAppEx.exe
+PID:06080	PName: WeChatAppEx.exe
+PID:19476	PName: WeChatAppEx.exe
+PID:03280	PName: WeChatAppEx.exe
+PID:14152	PName: WeChatPlayer.exe
+PID:15452	PName: WeChatUtility.exe
+PID:19620	PName: WeChatAppEx.exe
+PID:12384	PName: WeChatOCR.exe
+PID:16728	PName: WeChatAppEx.exe
+PID:16760	PName: WeChatAppEx.exe
+PID:16076	PName: svchost.exe
+PID:18304	PName: RuntimeBroker.exe
+PID:08080	PName: svchost.exe
+PID:11996	PName: UserOOBEBroker.exe
+PID:02764	PName: Agent.exe
+PID:08948	PName: conhost.exe
+PID:01936	PName: dllhost.exe
+PID:09980	PName: svchost.exe
+PID:03648	PName: SystemSettingsBroker.exe
+PID:03232	PName: svchost.exe
+PID:19008	PName: dllhost.exe
+PID:19648	PName: chrome.exe
+PID:13348	PName: steam.exe
+PID:23084	PName: steamwebhelper.exe
+PID:12356	PName: steamservice.exe
+PID:22112	PName: steamwebhelper.exe
+PID:06208	PName: steamwebhelper.exe
+PID:22268	PName: steamwebhelper.exe
+PID:22024	PName: steamwebhelper.exe
+PID:20644	PName: steamwebhelper.exe
+PID:20896	PName: steamwebhelper.exe
+PID:25036	PName: ApplicationFrameHost.exe
+PID:08560	PName: wps.exe
+PID:22704	PName: promecefpluginhost.exe
+PID:18820	PName: promecefpluginhost.exe
+PID:24776	PName: wps.exe
+PID:21528	PName: wps.exe
+PID:19288	PName: wpspdf.exe
+PID:16872	PName: promecefpluginhost.exe
+PID:01092	PName: promecefpluginhost.exe
+PID:22264	PName: wps.exe
+PID:06072	PName: wps.exe
+PID:08212	PName: wps.exe
+PID:24852	PName: wps.exe
+PID:25004	PName: WeChatAppEx.exe
+PID:18488	PName: Battle.net.exe
+PID:02592	PName: Battle.net.exe
+PID:14948	PName: Battle.net.exe
+PID:09444	PName: wps.exe
+PID:23844	PName: Windows.Media.BackgroundPlayback.exe
+PID:07664	PName: RuntimeBroker.exe
+PID:06920	PName: AsusOptimization.exe
+PID:23196	PName: AsusSystemDiagnosis.exe
+PID:17168	PName: AsusSystemAnalysis.exe
+PID:19304	PName: AsusLinkRemote.exe
+PID:06452	PName: AsusLinkNear.exe
+PID:09992	PName: AsusSoftwareManager.exe
+PID:23860	PName: AsusAppService.exe
+PID:23548	PName: AsusSwitch.exe
+PID:05932	PName: AsusOptimizationStartupTask.exe
+PID:10328	PName: AsusOSD.exe
+PID:21576	PName: AsusSystemAnalysis.exe
+PID:13108	PName: conhost.exe
+PID:24520	PName: AsusSoftwareManagerAgent.exe
+PID:23432	PName: taskhostw.exe
+PID:25816	PName: dllhost.exe
+PID:27008	PName: LockApp.exe
+PID:27636	PName: svchost.exe
+PID:27644	PName: RuntimeBroker.exe
+PID:27340	PName: unsecapp.exe
+PID:27248	PName: ACCIMonitor.exe
+PID:18076	PName: SearchHost.exe
+PID:20232	PName: svchost.exe
+PID:29972	PName: svchost.exe
+PID:14632	PName: svchost.exe
+PID:26896	PName: svchost.exe
+PID:08992	PName: wpscloudsvr.exe
+PID:01516	PName: svchost.exe
+PID:30376	PName: pycharm64.exe
+PID:27344	PName: fsnotifier64.exe
+PID:29084	PName: conhost.exe
+PID:28128	PName: chrome.exe
+PID:02524	PName: chrome.exe
+PID:19524	PName: chrome.exe
+PID:30140	PName: chrome.exe
+PID:02720	PName: chrome.exe
+PID:29284	PName: chrome.exe
+PID:26764	PName: chrome.exe
+PID:24288	PName: Clash for Windows.exe
+PID:24060	PName: Clash for Windows.exe
+PID:21260	PName: Clash for Windows.exe
+PID:25496	PName: Clash for Windows.exe
+PID:24840	PName: clash-win64.exe
+PID:22000	PName: conhost.exe
+PID:06224	PName: svchost.exe
+PID:25716	PName: chrome.exe
+PID:30564	PName: smartscreen.exe
+PID:18352	PName: svchost.exe
+PID:20740	PName: ChsIME.exe
+PID:19956	PName: svchost.exe
+PID:27696	PName: chrome.exe
+PID:20560	PName: SearchProtocolHost.exe
+PID:29316	PName: TabTip.exe
+PID:29952	PName: Client.exe
+PID:21540	PName: conhost.exe
+PID:03132	PName: OpenConsole.exe
+PID:10524	PName: WindowsTerminal.exe
+PID:30684	PName: RuntimeBroker.exe
+}
+total process: 299
+
+current process info:
+pid: 29952
+thread num: 4787
+priority: 32
+module counts:15
+process name: C:\Users\bot\Desktop\client\Client.exe
+Module list:
+C:\Users\bot\Desktop\client\Client.exe
+C:\WINDOWS\SYSTEM32\ntdll.dll
+C:\WINDOWS\System32\KERNEL32.DLL
+C:\WINDOWS\System32\KERNELBASE.dll
+C:\WINDOWS\System32\ucrtbase.dll
+C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll
+C:\WINDOWS\SYSTEM32\MSVCP140.dll
+C:\WINDOWS\SYSTEM32\WINHTTP.dll
+C:\WINDOWS\System32\sechost.dll
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+C:\WINDOWS\System32\msvcrt.dll
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+C:\WINDOWS\System32\NSI.dll
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+C:\WINDOWS\System32\RPCRT4.dll
+
+Patch IDs:
+Caption                                     CSName  Description      FixComments  HotFixID   InstallDate  InstalledBy          InstalledOn  Name  ServicePackInEffect  Status  
+http://support.microsoft.com/?kbid=5030651  LOLBOT  Update                        KB5030651               NT AUTHORITY\SYSTEM  10/11/2023                                      
+https://support.microsoft.com/help/5012170  LOLBOT  Security Update               KB5012170               NT AUTHORITY\SYSTEM  7/27/2023                                       
+https://support.microsoft.com/help/5031354  LOLBOT  Security Update               KB5031354               NT AUTHORITY\SYSTEM  10/11/2023                                      
+                                            LOLBOT  Update                        KB5031592               NT AUTHORITY\SYSTEM  10/11/2023                                      
+
+ 
